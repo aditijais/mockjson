@@ -1,184 +1,148 @@
 {
-	"api": [
-		{
-			"id": 1,
-			"name": "Bonolota",
-			"menu": [
-				{
-					"id": 1,
-					"name": "Biryani",
-					"price": 120.00,
-					"description": "Pizza description",
-					"image": "https://www.pizzahut.com.au/media/pizzahut/images/menu/pizza-1.jpg",
-					"qty": 1
-				},
-				{
-					"id": 2,
-					"name": "Fried Rice",
-					"price": 110.00,
-					"description": "Pizza description",
-					"image": "https://www.pizzahut.com.au/media/pizzahut/images/menu/pizza-1.jpg",
-					"qty": 1
-				},
-				{
-					"id": 3,
-					"name": "Chicken Pizza",
-					"price": 100.00,
-					"description": "Pizza description",
-					"image": "https://www.pizzahut.com.au/media/pizzahut/images/menu/pizza-1.jpg",
-					"qty": 1
-				},
-				{
-					"id": 4,
-					"name": "Veg Pizza",
-					"price": 130.00,
-					"description": "Pizza description",
-					"image": "https://www.pizzahut.com.au/media/pizzahut/images/menu/pizza-1.jpg",
-					"qty": 1
-				},
-				{
-					"id": 5,
-					"name": "Butter Naan",
-					"price": 200.00,
-					"description": "Pizza description",
-					"image": "https://www.pizzahut.com.au/media/pizzahut/images/menu/pizza-1.jpg",
-					"qty": 1
-				},
-				{
-					"id": 6,
-					"name": "Butter Chicken Pizza",
-					"price": 800.00,
-					"description": "Pizza description",
-					"image": "https://www.pizzahut.com.au/media/pizzahut/images/menu/pizza-1.jpg",
-					"qty": 1
-				},
-				{
-					"id": 7,
-					"name": "OG Pizza",
-					"price": 100.00,
-					"qty": 1
-				}
-			]
+	"restaurants" : [
+		{"name":"Biryani by Kilo" ,
+		  "menu":
+		         [
+		           {
+		           "id":"1",
+		           "name" : "Chicken Biryani",
+			   "price":"120",
+			   "description":"Exotic spiced rice mix of meat and rice, traditionally cooked over an open fire in a leather pot"
+			   },
+			   {
+		           "id":"2",
+		           "name" : "Chicken Chaap",
+			   "price":"80",
+			   "description":"Exotic spiced rice mix of meat and rice, traditionally cooked over an open fire in a leather pot"
+			   },
+			   {
+		           "id":"3",
+		           "name" : "Mutton Biryani",
+			   "price":"240",
+			   "description":"Exotic spiced rice mix of meat and rice, traditionally cooked over an open fire in a leather pot"
+			   },
+			   {
+		           "id":"4",
+		           "name" : "Galawati Kebab",
+			   "price":"300",
+			   "description":"Exotic spiced rice mix of meat and rice, traditionally cooked over an open fire in a leather pot"
+			   },
+			   {
+		           "id":"5",
+		           "name" : "Chicken Tandoori",
+			   "price":"280",
+			   "description":"Exotic spiced rice mix of meat and rice, traditionally cooked over an open fire in a leather pot"
+			   },
+			   ]
 		},
-		{
-			"id": 2,
-			"name": "Monarch",
-			"menu": [
-				{
-					"id": 8,
-					"name": "Abc",
-					"price": 100.00,
-					"description": "Pizza description",
-					"image": "https://www.pizzahut.com.au/media/pizzahut/images/menu/pizza-1.jpg",
-					"qty": 1
-				},
-				{
-					"id": 9,
-					"name": "Def",
-					"price": 100.00,
-					"description": "Pizza description",
-					"image": "https://www.pizzahut.com.au/media/pizzahut/images/menu/pizza-1.jpg",
-					"qty": 1
-				},
-				{
-					"id": 10,
-					"name": "Chicken Sizzler",
-					"price": 100.00,
-					"description": "Pizza description",
-					"image": "https://www.pizzahut.com.au/media/pizzahut/images/menu/pizza-1.jpg",
-					"qty": 1
-				},
-				{
-					"id": 11,
-					"name": "Bruhhh",
-					"price": 100.00,
-					"description": "Pizza description",
-					"image": "https://www.pizzahut.com.au/media/pizzahut/images/menu/pizza-1.jpg",
-					"qty": 1
-				},
-				{
-					"id": 12,
-					"name": "Pizza",
-					"price": 100.00,
-					"description": "Pizza description",
-					"image": "https://www.pizzahut.com.au/media/pizzahut/images/menu/pizza-1.jpg",
-					"qty": 1
-				},
-				{
-					"id": 13,
-					"name": "Pizza",
-					"price": 100.00,
-					"description": "Pizza description",
-					"image": "https://www.pizzahut.com.au/media/pizzahut/images/menu/pizza-1.jpg",
-					"qty": 1
-				},
-				{
-					"id": 14,
-					"name": "Pizza",
-					"price": 100.00,
-					"qty": 1
-				}
-			]
+		{"name":"Domino's Pizza" ,
+		  "menu":
+		         [
+		           {
+		           "id":"1",
+		           "name" : "Paneer and Onion",
+			   "price":"120",
+			   "description":"Paneer and Onion with Mexican Seasoning in mozarella cheese"
+			   },
+			   {
+		           "id":"2",
+		           "name" : "Chicken Barbeque",
+			   "price":"180",
+			   "description":"Barbeque marinated grilled chicken with jalapeno and onion"
+			   },
+			   {
+		           "id":"3",
+		           "name" : "Golden Corn",
+			   "price":"140",
+			   "description":"American Corn and Onion with Mexican Seasoning in mozarella cheese"
+			   },
+			   {
+		           "id":"4",
+		           "name" : "Farmhouse",
+			   "price":"300",
+			   "description":"Paneer,mushrooms,jalapeno,capsicum spiced up in mozarella cheese"
+			   },
+			   {
+		           "id":"5",
+		           "name" : "Veg Extravaganza",
+			   "price":"280",
+			   "description":"Onion,mushrooms,jalapeno,capsicum spiced up in mozarella cheese"
+			   },
+			   ]
 		},
-		{
-			"id": 3,
-			"name": "Delta Suites",
-			"menu": [
-				{
-					"id": 15,
-					"name": "Delta Suites ka fancy menu",
-					"price": 100.00,
-					"description": "Pizza description",
-					"image": "https://www.pizzahut.com.au/media/pizzahut/images/menu/pizza-1.jpg",
-					"qty": 1
-				},
-				{
-					"id": 16,
-					"name": "Mehanga",
-					"price": 100.00,
-					"description": "Pizza description",
-					"image": "https://www.pizzahut.com.au/media/pizzahut/images/menu/pizza-1.jpg",
-					"qty": 1
-				},
-				{
-					"id": 17,
-					"name": "Kaafi Mehanga Pizza",
-					"price": 100.00,
-					"description": "Pizza description",
-					"image": "https://www.pizzahut.com.au/media/pizzahut/images/menu/pizza-1.jpg",
-					"qty": 1
-				},
-				{
-					"id": 18,
-					"name": "Aukaat ke bahar wali Pizza",
-					"price": 100.00,
-					"description": "Pizza description",
-					"image": "https://www.pizzahut.com.au/media/pizzahut/images/menu/pizza-1.jpg",
-					"qty": 1
-				},
-				{
-					"id": 19,
-					"name": "Pizza",
-					"price": 100.00,
-					"description": "Pizza description",
-					"image": "https://www.pizzahut.com.au/media/pizzahut/images/menu/pizza-1.jpg",
-					"qty": 1
-				},
-				{
-					"id": 20,
-					"name": "Pizza",
-					"price": 100.00,
-					"description": "Pizza description",
-					"image": "https://www.pizzahut.com.au/media/pizzahut/images/menu/pizza-1.jpg",
-					"qty": 1
-				},
-				{
-					"id": 21,
-					"name": "Pizza",
-					"price": 100.00,
-					"qty": 1
-				}
-			]
-		}
+		{"name":"Shimla Biryani" ,
+		  "menu":
+		         [
+		           {
+		           "id":"1",
+		           "name" : "Chicken Biryani",
+			   "price":"160",
+			   "description":"Exotic spiced rice mix of meat and rice, traditionally cooked over an open fire in a leather pot"
+			   },
+			   {
+		           "id":"2",
+		           "name" : "Chicken Chaap",
+			   "price":"80",
+			   "description":"Exotic spiced rice mix of meat and rice, traditionally cooked over an open fire in a leather pot"
+			   },
+			   {
+		           "id":"3",
+		           "name" : "Mutton Biryani",
+			   "price":"250",
+			   "description":"Exotic spiced rice mix of meat and rice, traditionally cooked over an open fire in a leather pot"
+			   },
+			   {
+		           "id":"4",
+		           "name" : "Galawati Kebab",
+			   "price":"300",
+			   "description":"Exotic spiced rice mix of meat and rice, traditionally cooked over an open fire in a leather pot"
+			   },
+			   {
+		           "id":"5",
+		           "name" : "Chicken Tandoori",
+			   "price":"290",
+			   "description":"Exotic spiced rice mix of meat and rice, traditionally cooked over an open fire in a leather pot"
+			   },
+			   ]
+		},
+		{"name":"Margarita Pizza" ,
+		  "menu":
+		         [
+		           {
+		           "id":"1",
+		           "name" : "Paneer and Onion",
+			   "price":"110",
+			   "description":"Paneer and Onion with Mexican Seasoning in mozarella cheese"
+			   },
+			   {
+		           "id":"2",
+		           "name" : "Chicken Barbeque",
+			   "price":"130",
+			   "description":"Barbeque marinated grilled chicken with jalapeno and onion"
+			   },
+			   {
+		           "id":"3",
+		           "name" : "Golden Corn",
+			   "price":"100",
+			   "description":"American Corn and Onion with Mexican Seasoning in mozarella cheese"
+			   },
+			   {
+		           "id":"4",
+		           "name" : "Farmhouse",
+			   "price":"250",
+			   "description":"Paneer,mushrooms,jalapeno,capsicum spiced up in mozarella cheese"
+			   },
+			   {
+		           "id":"5",
+		           "name" : "Veg Extravaganza",
+			   "price":"220",
+			   "description":"Onion,mushrooms,jalapeno,capsicum spiced up in mozarella cheese"
+			   },
+			   ]
+		},
+
+
+		
 	]
+		
 }
