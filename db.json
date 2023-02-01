@@ -1,6 +1,8 @@
 {
-	"restaurants" : [
-		{"name":"Biryani by Kilo" ,
+	"restaurants" : 
+	     [
+		{
+		  "name":"Biryani by Kilo" ,
 		  "menu":
 		         [
 		           {
@@ -32,10 +34,11 @@
 		           "name" : "Chicken Tandoori",
 			   "price":"280",
 			   "description":"Exotic spiced rice mix of meat and rice, traditionally cooked over an open fire in a leather pot"
-			   },
+			   }
 			   ]
 		},
-		{"name":"Domino's Pizza" ,
+		{
+		  "name":"Domino's Pizza" ,
 		  "menu":
 		         [
 		           {
@@ -67,10 +70,11 @@
 		           "name" : "Veg Extravaganza",
 			   "price":"280",
 			   "description":"Onion,mushrooms,jalapeno,capsicum spiced up in mozarella cheese"
-			   },
+			   }
 			   ]
 		},
-		{"name":"Shimla Biryani" ,
+		{
+		  "name":"Shimla Biryani" ,
 		  "menu":
 		         [
 		           {
@@ -102,10 +106,11 @@
 		           "name" : "Chicken Tandoori",
 			   "price":"290",
 			   "description":"Exotic spiced rice mix of meat and rice, traditionally cooked over an open fire in a leather pot"
-			   },
+			   }
 			   ]
 		},
-		{"name":"Margarita Pizza" ,
+		{
+		  "name":"Margarita Pizza" ,
 		  "menu":
 		         [
 		           {
@@ -137,8 +142,8 @@
 		           "name" : "Veg Extravaganza",
 			   "price":"220",
 			   "description":"Onion,mushrooms,jalapeno,capsicum spiced up in mozarella cheese"
-			   },
-			   ]
+			   }
+			]
 		}
 
 
